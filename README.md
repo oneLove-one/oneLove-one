@@ -20,8 +20,8 @@ Here are the key libraries and tools that power my projects:
   - [IDA Pro](https://hex-rays.com/ida-pro/) & [x64dbg](https://x64dbg.com/) – Essential tools for exploring and dissecting binaries.
   - **Assembly (ASM)** – Low-level programming for precise control.
 
-- **Audio and Game Development:**
-  - [Soul](https://soul.dev/) – High-performance audio programming.
+- **Lua Api in C++ Development:**
+  - [Sol2](https://github.com/ThePhD/sol2) – High-performance lua programming.
 
 ## 🌱 What I'm Learning
 I'm constantly improving my skills and exploring new domains. Lately, I've been:
