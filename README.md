@@ -30,8 +30,7 @@ I'm constantly improving my skills and exploring new domains. Lately, I've been:
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my repositories. I'm always open to collaboration and sharing ideas:
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/YourProfile)
+- **Telegram:** [@wwwwonelove](mailto:@wwwwonelove)
 
 ---
 
